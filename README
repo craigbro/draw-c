@@ -1,0 +1,4 @@
+A simple C toolkit for drawing with SDL
+
+The `sketch` structure controls a screen drawing and event handling
+loop.  See `sketch_skel.x` for an examples.
